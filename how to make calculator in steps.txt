@@ -1,0 +1,6 @@
+TEXT EDITOR- vsc code
+
+1.!-emmet abrivation
+2.make the buttons (html part)
+3.design the calculator and the buttons (css part)
+4.make functionalities in calculator (js part)
